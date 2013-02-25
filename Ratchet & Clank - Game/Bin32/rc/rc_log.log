@@ -1,0 +1,67 @@
+   ResourceCompiler  32-bit
+   Version 3.4.3.5047  Nov  7 2012 20:29:53
+   
+   Copyright (c) 2001-2011 Crytek GmbH. All rights reserved.
+   
+   Exe directory:
+     "C:\Users\Caleb Hughes\Documents\GitHub\ratchetandclank\Ratchet & Clank - Game\Bin32\rc\"
+   Temp directory:
+     "C:\Users\CALEBH~1\AppData\Local\Temp\"
+   Current directory:
+     "C:\Users\Caleb Hughes\Documents\GitHub\ratchetandclank\Ratchet & Clank - Game\Bin32\rc\"
+   
+   
+   Command line:
+     "C:\Users\Caleb Hughes\Documents\GitHub\ratchetandclank\Ratchet & Clank - Game/Bin32/rc/rc.exe"
+     "C:\Users\Caleb Hughes\Documents\GitHub\ratchetandclank\Ratchet & Clank - Game\Game\Objects\Props\crates\$tmp_crate_ammo.cgf"
+     "/userdialog=1"
+     "/threads=1"
+     "/refresh"
+   
+   Platforms specified in rc.ini:
+     pc (little-endian)
+     x360 (big-endian)
+     ps3 (big-endian)
+     wiiu (big-endian)
+   
+   Started at: Sun Feb 24 17:24:26 2013
+    0:00 Memory: working set 4.3Mb (peak 4.3Mb), pagefile 2.8Mb (peak 2.8Mb)
+    0:00 Registering sub compilers (ResourceCompiler*.dll)
+    0:00 Searching for C:\Users\Caleb Hughes\Documents\GitHub\ratchetandclank\Ratchet & Clank - Game\Bin32\rc\ResourceCompiler*.dll
+    0:00 Loading "C:\Users\Caleb Hughes\Documents\GitHub\ratchetandclank\Ratchet & Clank - Game\Bin32\rc\ResourceCompilerImage.dll"
+    0:00   Loaded "ResourceCompilerImage.dll"
+    0:00     Registered convertor for tif
+    0:00     Registered convertor for srf
+    0:00     Registered convertor for dds
+    0:00 Loading "C:\Users\Caleb Hughes\Documents\GitHub\ratchetandclank\Ratchet & Clank - Game\Bin32\rc\ResourceCompilerPC.dll"
+    0:00   Loaded "ResourceCompilerPC.dll"
+    0:00     Registered convertor for cga, cgf
+    0:00     Registered convertor for chunk
+    0:00     Registered convertor for chr
+    0:00     Registered convertor for caf, cba
+    0:00     Registered convertor for dae, dae.zip
+    0:00 Loading "C:\Users\Caleb Hughes\Documents\GitHub\ratchetandclank\Ratchet & Clank - Game\Bin32\rc\ResourceCompilerXML.dll"
+    0:00   Loaded "ResourceCompilerXML.dll"
+    0:00     Registered convertor for xml
+    0:00 
+    0:00 CryCompressorRC.dll loaded
+    0:00     Registered convertor for pak, zip
+    0:00 Memory: working set 8.2Mb (peak 8.2Mb), pagefile 5.9Mb (peak 6.0Mb)
+    0:00 
+    0:00 CPU cores: 3 available (3 in system).
+    0:00 Logical processors: 6 available (6 in system).
+    0:00 /processes was not specified. Not spawning processes.
+    0:00 /threads specified with value 1: '1'. Using up to 1 thread.
+    0:00 
+    0:00 Memory: working set 8.2Mb (peak 8.2Mb), pagefile 5.9Mb (peak 6.0Mb)
+    0:00 Spawning 1 thread
+    0:00 
+   1>  0:00 -------------------------------------------------------
+   1>  0:00 File='$tmp_crate_ammo.cgf'
+   1>  0:00 32 artifacts in physicalised render geometry (crate_ammo), one or more meshes are not manifold, try converting the physicalised render geometry to a manifold physics proxy if you experience problems in game.
+   
+   1 file processed in 0.1 sec.
+   
+   Memory: working set 8.9Mb (peak 10.3Mb), pagefile 6.7Mb (peak 8.9Mb)
+   
+   Finished at: Sun Feb 24 17:24:26 2013
